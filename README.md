@@ -14,6 +14,10 @@ Se utiliza el lenguaje de JAVA con su JDK en su versión 17.4
 
 Empleamos Postgres la implementación de la base de datos
 
+## Plataforma API
+
+Empleamos Postman realizar pruebas API. Nuestro Workplace se llama "TakemeHome_VF".
+
 
 
 
